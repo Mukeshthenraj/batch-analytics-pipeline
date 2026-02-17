@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Airflow
+logs/
+airflow.db
+webserver_config.py
+
+# Data outputs (don’t push generated data)
+data/
+*.csv
+*.parquet
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
