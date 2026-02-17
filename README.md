@@ -11,10 +11,10 @@ platform** built using modern data engineering tools.
 
 It simulates a real-world sales pipeline that:
 
--   Generates raw data\
--   Orchestrates workflows\
--   Processes data using distributed computing\
--   Stores results in a warehouse\
+-   Generates raw data
+-   Orchestrates workflows
+-   Processes data using distributed computing
+-   Stores results in a warehouse
 -   Delivers business insights via BI dashboards
 
 The entire system is fully containerized using Docker and orchestrated
@@ -34,15 +34,15 @@ via Apache Airflow.
 
 Data Flow:
 
-Python Data Generator
+Python Data Generator\
 ↓\
-Apache Airflow (Orchestration)
+Apache Airflow (Orchestration)\
 ↓\
-MinIO (Raw Data Lake Layer - S3 Compatible)
+MinIO (Raw Data Lake Layer - S3 Compatible)\
 ↓\
-Apache Spark (Distributed Transformation Engine)
+Apache Spark (Distributed Transformation Engine)\
 ↓\
-PostgreSQL (Analytics Warehouse)
+PostgreSQL (Analytics Warehouse)\
 ↓\
 Power BI (Business Intelligence Dashboard)
 
@@ -213,4 +213,5 @@ Germany
 # ⭐ If You Found This Useful
 
 Feel free to star the repository and connect with me on LinkedIn!
+
 
