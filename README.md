@@ -1,5 +1,14 @@
 ﻿# 🚀 Batch Analytics Data Platform
 
+ ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.9-red?logo=apacheairflow)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-4.0-orange?logo=apachespark)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
+![MinIO](https://img.shields.io/badge/MinIO-Object%20Storage-red?logo=minio)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/Mukeshthenraj/batch-analytics-pipeline)
+
 ### End-to-End Data Engineering Pipeline with Airflow, Spark, MinIO & PostgreSQL
 
 ------------------------------------------------------------------------
@@ -213,5 +222,6 @@ Germany
 # ⭐ If You Found This Useful
 
 Feel free to star the repository and connect with me on LinkedIn!
+
 
 
